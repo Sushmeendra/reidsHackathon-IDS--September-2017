@@ -1,0 +1,7 @@
+The file Datathon1.csv contains data for 95,753 people who registered for
+the National Programming Aptitude Test (NPAT), conducted on August 13,
+2017.
+Columns A, B and C indicate details about each participant, and columns
+D, E, ..., K indicate the scores obtained on each question, (labeled q1,q2,...q8) in the
+test. The maximum score on each question was 100, and unattempted
+questions have a score of -1

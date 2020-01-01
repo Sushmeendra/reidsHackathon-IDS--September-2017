@@ -1,0 +1,24 @@
+Insights from the Data Set with Description:
+1.Questions 8 and 7 were the hardest, while questions 4 and 1 were the easiest.
+
+Method:Created a new dataframe consisting of all the mean scores for each question, and drew a barplot of scores for each question.
+
+2.It was expected that the Faculty would perform better than the students(given) their knowledge and experience.However, the students performed better than faculty(and by a large amount)!! 
+
+Method:Created a new data frame consisting of all the individual professions
+ and mean scores of each group of people, and the barplot was drawn.
+
+
+3.Tamil Nadu has the most number of toppers and the most number of uninterested people who didn’t even attempt any question
+
+Method:A barplot was plotted for Toppers and uninterested people against their state of residence and both showed that Tamil Nadu had the highest
+
+4.The 'other' people weren't very old; they were almost of the same age as the employed people.The faculty were the ‘oldest’ of the people who took the test.
+
+Method:A KDE (Kernel Density Estimation) plot was drawn for graduation year of each of the groups of people.
+
+5.Most of the people who took the test are young people
+Among the young people, students were the greatest participators in this exam
+However, there were some veterans indicated by the histogram(plotted between years 1950 and 2010). The graph is left-skewed because there are people who arent students who took the test .
+
+Method: Both histogram and pie charts plotted confirmed that students formed the majority of the participants.
